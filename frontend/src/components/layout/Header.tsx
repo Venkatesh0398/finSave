@@ -1,5 +1,5 @@
-import { SidebarTrigger } from "@/components/ui/sidebar";
-import { Button } from "@/components/ui/button";
+import { SidebarTrigger } from "../ui/sidebar";
+import { Button } from "../ui/button";
 import { Settings } from "lucide-react";
 
 export function Header() {
