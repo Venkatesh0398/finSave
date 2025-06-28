@@ -1,8 +1,8 @@
 
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
-import { Button } from "@/components/ui/button";
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "../components/ui/card";
+import { Button } from "../components/ui/button";
 import { ArrowUp, ArrowDown, Target, TrendingUp, Wallet, PiggyBank, Plus, Calendar } from "lucide-react";
-import { Progress } from "@/components/ui/progress";
+import { Progress } from "../components/ui/progress";
 
 const Dashboard = () => {
   const monthlyData = {
